@@ -1,0 +1,75 @@
+{
+  "RootLayout": {
+    "home_link": "Beranda",
+    "about_link": "Tentang",
+    "counter_link": "Penghitung",
+    "portfolio_link": "Portofolio",
+    "sign_in_link": "Masuk",
+    "sign_up_link": "Daftar"
+  },
+  "BaseTemplate": {
+    "description": "Bergabunglah dengan Elfan AI Academy dan wujudkan potensi terbaik Anda bersama kami dalam perjalanan menuju masa depan yang cemerlang.",
+    "made_with": "Dibuat dengan <author></author>."
+  },
+  "Index": {
+    "meta_title": "Presentasi Boilerplate Next.js",
+    "meta_description": "Next.js Boilerplate adalah kode starter yang sempurna untuk proyek Anda. Bangun aplikasi React Anda dengan framework Next.js.",
+    "sponsors_title": "Sponsor"
+  },
+  "Counter": {
+    "meta_title": "Penghitung",
+    "meta_description": "Contoh operasi database",
+    "loading_counter": "Memuat penghitung...",
+    "security_powered_by": "Keamanan, deteksi bot, dan pembatasan permintaan didukung oleh"
+  },
+  "CounterForm": {
+    "presentation": "Nilai penghitung disimpan di database dan ditambah sesuai nilai yang Anda masukkan.",
+    "label_increment": "Tambah sebesar",
+    "button_increment": "Tambah"
+  },
+  "CurrentCount": {
+    "count": "Jumlah: {count}"
+  },
+  "About": {
+    "meta_title": "Tentang",
+    "meta_description": "Deskripsi tentang",
+    "about_paragraph": "Selamat datang di halaman Tentang kami! Kami adalah tim yang penuh semangat dan berdedikasi dalam menciptakan perangkat lunak.",
+    "translation_powered_by": "Terjemahan didukung oleh"
+  },
+  "Portfolio": {
+    "meta_title": "Portofolio",
+    "meta_description": "Selamat datang di halaman portofolio saya!",
+    "presentation": "Selamat datang di halaman portofolio saya! Di sini Anda akan menemukan koleksi karya dan pencapaian saya yang dikurasi dengan cermat. Melalui portofolio ini, saya menampilkan keahlian, kreativitas, dan nilai yang dapat saya berikan untuk proyek Anda.",
+    "portfolio_name": "Portofolio {name}",
+    "error_reporting_powered_by": "Pelaporan error didukung oleh",
+    "coverage_powered_by": "Cakupan kode didukung oleh"
+  },
+  "PortfolioSlug": {
+    "meta_title": "Portofolio {slug}",
+    "meta_description": "Deskripsi Portofolio {slug}",
+    "header": "Portofolio {slug}",
+    "content": "Membuat serangkaian materi promosi dan elemen branding untuk sebuah acara perusahaan. Merancang tema visual yang menyatu, mencakup logo, poster, banner, dan aset digital. Mengintegrasikan identitas merek klien sambil memberikan sentuhan modern dan inovatif. Mendapatkan respons positif dari para peserta, menghasilkan acara yang sukses dengan keterlibatan yang meningkat dan visibilitas merek yang lebih baik.",
+    "code_review_powered_by": "Tinjauan kode didukung oleh"
+  },
+  "SignIn": {
+    "meta_title": "Masuk",
+    "meta_description": "Masuk ke akun Anda dengan mudah."
+  },
+  "SignUp": {
+    "meta_title": "Daftar",
+    "meta_description": "Buat akun dengan mudah melalui proses pendaftaran yang intuitif."
+  },
+  "Dashboard": {
+    "meta_title": "Dashboard",
+    "hello_message": "Halo {email}!",
+    "alternative_message": "Ingin membuat SaaS Anda lebih cepat dengan stack yang sama? Coba <url></url>."
+  },
+  "UserProfile": {
+    "meta_title": "Profil Pengguna"
+  },
+  "DashboardLayout": {
+    "dashboard_link": "Dashboard",
+    "user_profile_link": "Kelola akun Anda",
+    "sign_out": "Keluar"
+  }
+}

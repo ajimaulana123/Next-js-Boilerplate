@@ -8,6 +8,20 @@
       "when": 1745518076143,
       "tag": "0000_init-db",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1769953923079,
+      "tag": "0001_bored_gressill",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1769954037241,
+      "tag": "0002_confused_bloodaxe",
+      "breakpoints": true
     }
   ]
 }
